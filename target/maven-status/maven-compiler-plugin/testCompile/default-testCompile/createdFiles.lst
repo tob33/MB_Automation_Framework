@@ -1,0 +1,5 @@
+pageObjects/ConfirmAllocationPage.class
+stepdefinitions/GlobalHooks.class
+stepdefinitions/ConfirmAllocation_steps.class
+cucumberOptions/TestRunner.class
+cucumberOptions/TestConfigurations.class
